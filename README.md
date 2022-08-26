@@ -1,7 +1,7 @@
 <h1>Salve!</h1>
 
 Eu sou o Leonardo! 
-- 💾 Estudante de Sistemas de Informação
+- 💾 Acadêmico de Sistemas de Informação
 - 🧠 Em constante aprendizado
 
 <div>
