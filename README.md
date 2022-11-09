@@ -6,7 +6,7 @@ Eu sou o Leonardo!
 
 <div align="left">
   <a href="https://github.com/leopp18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopp18&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopp18&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div>
