@@ -4,9 +4,9 @@ Eu sou o Leonardo!
 - 💾 Acadêmico de Sistemas de Informação
 - 🧠 Em constante aprendizado
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/leopp18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopp18&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leopp18&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div>
