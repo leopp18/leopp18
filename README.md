@@ -11,5 +11,4 @@ Eu sou o Leonardo!
 
 <div>
 <a href="https://www.linkedin.com/in/leonardo-peripolli-pereira-1a6724221/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target="_blank"></a>
-<!–href="mailto:leoppereira8@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=gray #target="_blank"></a>–>
 </div>
